@@ -61,23 +61,23 @@ DataAnalyzer 是一款用于分析固体燃料燃烧性能的工具，主要通�
 
 - **原始P-t数据**标签页：展示导入的原始数据及P-t曲线
 
-![](\docs\images\1.png)
+![](docs/images/1.png)
 
 - **计算结果**标签页：展示燃速随时间变化曲线及详细计算数据（时间、压强、燃速、内孔直径、燃面面积）
 
-![](\docs\images\2.png)
+![](docs/images/2.png)
 
 - **r-P曲线**标签页：展示燃速与压强的关系曲线，用于后续参数拟合
 
-![](\docs\images\3.png)
+![](docs/images/3.png)
 
 - **拟合结果**标签页：对原始数据进行平滑处理
 
-![](\images\4.png)
+![](docs/images/4.png)
 
 - **详细数据展示**
 
-![](\docs\images\5.png)
+![](docs/images/5.png)
 
 ## 注意事项
 
